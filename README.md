@@ -1,5 +1,5 @@
 
-<img width="1427" alt="Screenshot 2024-01-27 at 16 28 10" src="https://developers.google.com/machine-learning/gan/gan_structure">
+<img width="1427" alt="[Screenshot 2024-01-27 at 16 28 10" src="https://developers.google.com/machine-learning/gan/gan_structure](https://github.com/fatimaujunwa/Fake-Celebrity-Image-Generation/assets/113392997/cb27db88-0a19-46ec-94b0-f3705f39670e)">
 
 # Generating Fake Celebrity Images using GAN
 
