@@ -1,3 +1,6 @@
+
+<img width="1427" alt="Screenshot 2024-01-27 at 16 28 10" src="https://developers.google.com/machine-learning/gan/gan_structure">
+
 # Generating Fake Celebrity Images using GAN
 
 ## Introduction
